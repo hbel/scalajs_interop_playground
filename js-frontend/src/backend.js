@@ -1,0 +1,1 @@
+../../sjs-frontend/target/scala-2.12/sjs-frontend-fastopt.js
